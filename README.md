@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navindu Dahanayake</h1>
 <h3 align="center">Information Technology undergraduate at University of Moratuwa</h3>
 
-
+<div align="center">
+<img  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+</div>
 
 ###
 
