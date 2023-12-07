@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Navindu Dahanayake</h1>
 <h3 align="center">Information Technology undergraduate at University of Moratuwa</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navindudahanayakeofficial&show_icons=true&locale=en" alt="navindudahanayakeofficial" /></p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NavinduDahanayakeOfficial&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NavinduDahanayakeOfficial&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
